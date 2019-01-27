@@ -1,0 +1,24 @@
+{
+  "name": "bitcoin-caffee-ui-tool-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashAgr5980/Bitcoin-Caffee-UI-Tool-Kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashAgr5980/Bitcoin-Caffee-UI-Tool-Kit/issues"
+  },
+  "homepage": "https://github.com/YashAgr5980/Bitcoin-Caffee-UI-Tool-Kit#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
